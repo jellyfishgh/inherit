@@ -1,4 +1,4 @@
-class Sup {
+class Sup() {
     constructor(name) {
         this.name = name;
     }

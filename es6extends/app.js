@@ -8,5 +8,3 @@ const sub = new Sub();
 console.log(sup);
 
 console.log(sub);
-
-//http://keenwon.com/1524.html ?

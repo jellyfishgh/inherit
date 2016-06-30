@@ -1,4 +1,4 @@
-import Sup from './Sup.js';
+import {Sup} from './Sup.js';
 
 class Sub extends Sup {
     constructor(name, age) {
